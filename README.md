@@ -1,5 +1,5 @@
 # Disclaimer
-This repository is only for people who don't know how to use GitHub. __People who know how to use GitHub can ignore.__
+This repository is only for people who don't know how to use GitHub.
 # About the repository
 - This is a repo which contains the instructions to contribute to repositories of study materials.
 - The steps are simple, and anyone can follow the steps.
