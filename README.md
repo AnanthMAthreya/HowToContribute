@@ -6,7 +6,7 @@ This repository is only for people who don't know how to use GitHub. __People wh
 - The way to contribute involves GitHub desktop, which is more user-friendly than Git Bash.
 
 # Instructions
-- Create a GitHub account, if you do not have one.[How to create a GitHub account](https://youtu.be/Gn3w1UvTx0A?si=ufZAMVcmLtVyqnd9)
+- Create a GitHub account, if you do not have one.  [How to create a GitHub account](https://youtu.be/Gn3w1UvTx0A?si=ufZAMVcmLtVyqnd9)
 - Download GitHub desktop on your systems. Steps to download GitHub desktop
      - [On Windows 11](https://youtu.be/G4SIIp14Xx4?si=W-yz8R0MxgRiEw7F)
      - [On MacOS](https://youtu.be/C0n6O4d0ccw?si=SfwpZvLthEhLdXuy)
