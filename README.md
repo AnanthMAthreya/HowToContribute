@@ -34,5 +34,13 @@ This repository is only for people who don't know how to use GitHub. __People wh
 - You will get a view something like this. Click on "Push origin". It takes some minutes for the repo to be modified, so __please wait__.
 ![Image](https://github.com/user-attachments/assets/f9a900d1-0ed0-49dd-b0e3-e7414591e5b0)
 
-- __Congrats! You have made changes in the repo.__
+- Later, you have to create a pull request.Go to branch->Create pull request
+![Image](https://github.com/user-attachments/assets/ac5bccca-945d-488a-82f9-0283f47ea805)
+
+-This will lead you to this page. Add appropriate description and click on "Create pull request"
+![Image](https://github.com/user-attachments/assets/2d23baf8-dd07-41a0-881c-58ff8dd33c7f)
+
+-The owner will merge your pull request, if valid.
+
+
 
