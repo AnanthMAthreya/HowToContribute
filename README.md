@@ -25,12 +25,14 @@ This repository is only for people who don't know how to use GitHub. __People wh
 - You can see the GitHub repo as a folder in the local path field in your system. You may even change the local path if you wish.
 ## How to modify the repository
 - You can move the files you want to contribute, to the repo folder in the system, on File Explorer.
-- Then, come back to GitHub desktop, and open the repository which you have made changes to. For example, I have added a file to a repository called "You can contribute". I am getting the following changes on my GitHub desktop.
-![Image](https://github.com/user-attachments/assets/bcd4520f-47ce-4e6f-bf3f-bcb88fd63012)
+- Then, come back to GitHub desktop, and open the repository which you have made changes to. For example, I have added a file to a repository called "Toy-repo". I am getting the following changes on my GitHub desktop.
+![Image](https://github.com/user-attachments/assets/8ce76614-c208-4a79-b471-5f3723557f44)
+
+- Create the fork of the repository. You can modify the repo only if you create a fork.
 - Add the name of the commit, and the description of the commit(What you want to change, why you have to change)
 - Click on "Commit to main"
 - You will get a view something like this. Click on "Push origin". It takes some minutes for the repo to be modified, so __please wait__.
-![Image](https://github.com/user-attachments/assets/32c55513-7cbd-403b-ac83-b69e93d85f90)
+![Image](https://github.com/user-attachments/assets/f9a900d1-0ed0-49dd-b0e3-e7414591e5b0)
 
 - __Congrats! You have made changes in the repo.__
 
