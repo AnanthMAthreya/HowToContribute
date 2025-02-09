@@ -42,5 +42,7 @@ This repository is only for people who don't know how to use GitHub. __People wh
 
 -The owner will merge your pull request, if valid.
 
+-For more queries, contact ananthmathreya@gmail.com or [Linkedin](https://www.linkedin.com/in/ananth-m-athreya-963262287/)
+
 
 
